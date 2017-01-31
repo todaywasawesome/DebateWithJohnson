@@ -1,6 +1,6 @@
 # DebateWithBernie
 
-Make your own #DebateWithBernie image.
+Make your own #DebateWithJohnson image.
 
 ## Development
 
